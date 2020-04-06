@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Вадим Гуров](https://up.htmlacademy.ru/adaptive/19/user/1341787).
-* Наставник: `Неизвестно`.
+* Наставник: Дмитрий Железцов (https://htmlacademy.ru/profile/id983299
 
 ---
 
